@@ -36,3 +36,6 @@ I am Dusan Milutinovic, a self-taught programmer who is currently a student. I'v
 <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=milutinke&show_icons=true&theme=tokyonight"> <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=milutinke&langs_count=5&layout=compact&theme=tokyonight">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=milutinke.milutinke)
+
+## 📷▶️
+<img height="160" src="qr.png">
