@@ -9,13 +9,15 @@ I am Dusan Milutinovic, a self-taught programmer who is currently a student. I'v
 
 ## 🚀💻 Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-Java%20Script-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/Node%20JS-black?style=flat-square&logo=Node.js)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=AEDDFF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -24,19 +26,16 @@ I am Dusan Milutinovic, a self-taught programmer who is currently a student. I'v
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+
 
 ## ⚙️ Git Stats
 
 <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=milutinke&show_icons=true&theme=tokyonight"> <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=milutinke&langs_count=5&layout=compact&theme=tokyonight">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=milutinke.milutinke)
-
-## 📷▶️
-<img height="160" src="qr.png">
