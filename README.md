@@ -6,7 +6,6 @@ I am Dusan Milutinovic, a self-taught programmer who is currently a student. I'v
 - 🌱 I’m currently learning: Android Development in Java and Kotlin
 - 👯 I’m looking to collaborate on: Open Source projects which make life easier
 - 📫 How to reach me: milutinke@gmx.com
-- ⚡ Fun fact: I still haven't learned how to use Git properly, lol
 
 ## 🚀💻 Technologies & Tools
 
@@ -30,6 +29,8 @@ I am Dusan Milutinovic, a self-taught programmer who is currently a student. I'v
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 
 ## ⚙️ Git Stats
 
