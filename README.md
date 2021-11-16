@@ -1,6 +1,6 @@
 ## Hello there! <img src="wave.gif" width="30px">
 
-I am Dusan Milutinovic, a self-taught programmer who is currently a student. I've sailed into the world of programming through modding and scripting for the Half-Life Gold Source engine around 10 years ago, and then later moved to backend web development. I've worked with numerous technologies and projects, but I still think of myself as a humble beginner and I want to learn more and get better.
+I am a self-taught programmer who is currently a student. I've sailed into the world of programming through modding and scripting for the Half-Life Gold Source engine around 10 years ago, and then later moved to backend web development. I've worked with numerous technologies and projects, but I still think of myself as a humble beginner and I want to learn more and get better.
 
 - 🔭 I’m currently working on: [Squad Control Panel](https://github.com/milutinke/sqcp)
 - 🌱 I’m currently learning: ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
