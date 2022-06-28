@@ -13,6 +13,7 @@ I am a self-taught programmer who is currently a student. I've sailed into the w
 ![Nodejs](https://img.shields.io/badge/Node%20JS-black?style=flat-square&logo=Node.js)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java)
+![C#](https://img.shields.io/badge/C%23-%2300599C.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -41,7 +42,6 @@ I am a self-taught programmer who is currently a student. I've sailed into the w
 
 ![Type Script](https://img.shields.io/badge/Type%20Script-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-%2300599C.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=AEDDFF)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
