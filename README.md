@@ -3,7 +3,7 @@
 I am a self-taught programmer who is currently a student. I've sailed into the world of programming through modding and scripting for the Half-Life Gold Source engine around 10 years ago, and then later moved to backend web development. I've worked with numerous technologies and projects, but I still think of myself as a humble beginner and I want to learn more and get better.
 
 - 🔭 I’m currently working on: [Minecraft Console Client](https://github.com/MCCTeam/Minecraft-Console-Client)
-- 🌱 I’m currently learning: ![C#](https://img.shields.io/badge/C%23-%2300599C.svg?style=flat-square&logo=c-sharp&logoColor=white)
+- 🌱 I’m currently learning: ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 - 👯 I’m looking to collaborate on: Open Source projects which make life easier
 - 📫 How to reach me: milutinke [at] gmx.com
 
@@ -37,6 +37,7 @@ I am a self-taught programmer who is currently a student. I've sailed into the w
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)
+![Vue Press](https://img.shields.io/badge/Vue-Press-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 
 #### Utilized (Not mastered completely, learned just enough to utilize):
 
