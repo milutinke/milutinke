@@ -1,22 +1,22 @@
 ## Hello there! <img src="wave.gif" width="30px" height="30px">
 
-I am a self-taught programmer who is currently a student. I've sailed into the world of programming through modding and scripting for the Half-Life Gold Source engine around 10 years ago, and then later moved to backend web development. I've worked with numerous technologies and projects, but I still think of myself as a humble beginner and I want to learn more and get better.
+I am a self-taught programmer who is currently a student. I've sailed into the world of programming through modding and scripting for the Half-Life Gold Source engine 11 years ago, and then later moved to backend web development. I've worked with numerous technologies and projects, but I still think of myself as a humble beginner and I want to learn more and get better.
 
-- 🔭 I’m currently working on: [Minecraft Console Client](https://github.com/MCCTeam/Minecraft-Console-Client) and [MCC.JS](https://github.com/milutinke/MCC.js)
-- 🌱 I’m currently learning: ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+- 🔭 I’m currently working on: [Minecraft Console Client](https://github.com/MCCTeam/Minecraft-Console-Client)
+- 🌱 I’m currently learning: ![ASP.NET Core](https://img.shields.io/badge/ASP-.NET%20Core-blue?style=flat-square), ![Azure](https://img.shields.io/badge/-Azure%20DevOps-blue?style=flat-square), ![Sharepoint](https://img.shields.io/badge/-Sharepoint-blue?style=flat-square)
 - 👯 I’m looking to collaborate on: Open Source projects which make life easier
 - 📫 How to reach me: milutinke [at] gmx.com
 
 ## 🚀💻 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-Java%20Script-black?style=flat-square&logo=javascript)
+![Type Script](https://img.shields.io/badge/Type%20Script-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node%20JS-black?style=flat-square&logo=Node.js)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java)
 ![C#](https://img.shields.io/badge/C%23-%2300599C.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
@@ -38,26 +38,15 @@ I am a self-taught programmer who is currently a student. I've sailed into the w
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)
 ![Vue Press](https://img.shields.io/badge/Vue-Press-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-
-#### Utilized (Not mastered completely, learned just enough to utilize):
-
-![Type Script](https://img.shields.io/badge/Type%20Script-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=AEDDFF)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/-Mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-Mongo%20DB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
 
 #### Looking forward to learn:
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-gray?style=flat-square&logo=rust&logoColor=orange)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=lat-square&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ## ⚙️ Git Stats
 
