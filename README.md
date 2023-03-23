@@ -1,9 +1,9 @@
 ## Hello there! <img src="wave.gif" width="30px" height="30px">
 
-I am a self-taught programmer who is currently a student. I've sailed into the world of programming through modding and scripting for the Half-Life Gold Source engine 11 years ago, and then later moved to backend web development. I've worked with numerous technologies and projects, but I still think of myself as a humble beginner and I want to learn more and get better.
+I am a self-taught programmer who is currently a student and a full time back end web developer in Microsoft ecosystem. I've sailed into the world of programming through modding and scripting for the Half-Life Gold Source engine 11 years ago, and then later moved to backend web development. I've worked with numerous technologies and projects, but I still think of myself as a humble beginner and I want to learn more and get better.
 
 - 🔭 I’m currently working on: [Minecraft Console Client](https://github.com/MCCTeam/Minecraft-Console-Client)
-- 🌱 I’m currently learning: ![ASP.NET Core](https://img.shields.io/badge/ASP-.NET%20Core-blue?style=flat-square), ![Azure](https://img.shields.io/badge/-Azure%20DevOps-blue?style=flat-square), ![Sharepoint](https://img.shields.io/badge/-Sharepoint-blue?style=flat-square)
+- 🌱 I’m currently learning: ![Azure](https://img.shields.io/badge/-Azure%20DevOps-blue?style=flat-square), ![Sharepoint](https://img.shields.io/badge/-Sharepoint-blue?style=flat-square)
 - 👯 I’m looking to collaborate on: Open Source projects which make life easier
 - 📫 How to reach me: milutinke [at] gmx.com
 
