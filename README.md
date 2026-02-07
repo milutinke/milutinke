@@ -1,6 +1,6 @@
 ## Hello there! <img src="wave.gif" width="30px" height="30px">
 
-I am a self-taught programmer and a Computer Science graduate who is currently a full time back-end web developer in Microsoft ecosystem. I've sailed into the world of programming through modding and scripting for the Half-Life Gold Source engine 15 years ago, and then later moved to backend web development. I've worked with numerous technologies and projects and accumulated quite a bit of experience, but I still have the drive to learn new things constantly.
+I am a self-taught programmer and a Computer Science graduate who is currently a full time back-end web developer in Microsoft ecosystem. I've sailed into the world of programming through modding and scripting for the Half-Life Gold Source engine 15 years ago, and then later moved to backend web development. I've worked with numerous technologies and projects and accumulated quite a bit of experience and knowledge, but I still have the drive to learn new things constantly.
 
 - 🔭 I’m currently working on: [Minecraft Console Client](https://github.com/MCCTeam/Minecraft-Console-Client)
 - 🌱 I’m currently learning: ![Rust](https://img.shields.io/badge/-Rust-gray?style=flat-square&logo=rust&logoColor=orange)
